@@ -1,0 +1,12 @@
+# Dependencias
+/node_modules
+
+# Archivos de logs
+*.log
+
+# Archivos de compilación
+/dist
+/build
+
+# Archivos de entorno
+.env
